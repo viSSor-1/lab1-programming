@@ -6,5 +6,6 @@ def square(x: int) -> int:
 number = 7 
 # Вызов функции 
 result = square(number) 
+# Вывод результата
 print(f"Число: {number}") 
 print(f"Квадрат: {result}")
